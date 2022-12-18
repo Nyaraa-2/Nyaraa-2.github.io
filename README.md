@@ -1,3 +1,24 @@
 # Nyaraa-2.github.io
 
-https://github.com/Nyaraa-2/customer-api-quarkus/blob/43b84bb03d70ff1f39e5439480e910a12c5fc7f4/src/main/java/com/redhat/customer/Customer.java#L1
+```java
+package com.redhat.customer;
+
+import lombok.Data;
+
+import javax.validation.constraints.Email;
+import javax.validation.constraints.NotEmpty;
+
+@Data
+public class Customer {
+    private Integer customerId;
+    @NotEmpty
+    private String firstName;
+    private String middleName;
+    @NotEmpty
+    private String lastName;
+    private String suffix;
+    @Email
+    private String email;
+    private String phone;
+}
+```
