@@ -1,6 +1,5 @@
 ## Sommaire
 
-### Concevoir et développer des composants d'interface utilisateur en intégrant les recommandations de sécurité
 * Présentation
 * Présentation du centre de formation
 * Présentation de l'entreprise
