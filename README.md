@@ -1,6 +1,6 @@
 ## Sommaire
 
-* Présentation
+* Présentation 
 * Présentation du centre de formation
 * Présentation de l'entreprise
 * Contexte de réalisation du projet présenté
@@ -12,7 +12,7 @@
 
 ### Concevoir et développer des composants d'interface utilisateur en intégrant les recommandations de sécurité
 
-* Maquetter une application.
+* [Maquetter une application.](#maq)
 * Développer une interface utilisateur de type desktop.
 * Développer des composants d'accès aux données.
 * Développer la partie front-end d'une interface utilisateur web.
@@ -33,9 +33,9 @@
 * Développer une application mobile.
 * Préparer et exécuter les plans de tests d'une application.
 * Préparer et exécuter le déploiement d'une application.
-    
-## Concevoir et développer des composants d'interface utilisateur en intégrant les recommandations de sécurité
 
+## Concevoir et développer des composants d'interface utilisateur en intégrant les recommandations de sécurité
+<a name="maq"></a>
 ### Maquetter une application
 ![image](https://user-images.githubusercontent.com/67165182/208379411-da58b4ae-4ebf-4918-a80e-540a84c8c5a1.png)
 ## Customer.java
